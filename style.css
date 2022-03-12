@@ -20,15 +20,22 @@ body{
     height: 700px;
 }
 .grid{
-    /* padding: 25px; */
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
 }
 .grid-cell{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 40px;  
 }
+
+.grid-cell img{
+    padding: 5px;
+    
+
+}
+
 
 
 
