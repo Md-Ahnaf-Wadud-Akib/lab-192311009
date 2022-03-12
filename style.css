@@ -19,8 +19,12 @@ body{
     width: 1903px;
     height: 700px;
 }
-.cards{
-    padding: 25px;
+.grid{
+    /* padding: 25px; */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.grid-cell{
     display: flex;
     justify-content: center;
     align-items: center;
