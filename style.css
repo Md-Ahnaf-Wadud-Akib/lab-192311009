@@ -33,6 +33,14 @@ body{
     background-repeat: no-repeat;
     background-size: 1950px 900px;
 }
+.slide{
+    width: 1903px;
+    height: 700px; 
+}
+.slide img{
+    width: 1903px;
+    height: 700px;
+}
 
 
 
