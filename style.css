@@ -6,40 +6,24 @@ body{
     width: 90px;
     margin-right: 10px;
     margin-left: 8px;
-    
-}
-.font{
-    font-size: 20px;
-}
-.section-1{
-    height: 900px;
-
-    
 }
 
-.search-box{
-    padding-left: 400px;
-    padding-right: 400px;
-    padding-top: 500px;
-    padding-bottom: 500px;
-
-    
-}
-
-
-
-.top-bannar{
-    background-image: url(img/background/header-background.png);
-    background-repeat: no-repeat;
-    background-size: 1950px 900px;
+.searchbar{
+    width: 900px;
 }
 .slide{
-    width: 1903px;
-    height: 700px; 
+    width: auto;
+    height: auto; 
 }
 .slide img{
     width: 1903px;
     height: 700px;
+}
+.cards{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
