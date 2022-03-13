@@ -35,6 +35,29 @@ body{
     
 
 }
+.popular-products{
+    padding: 45px;
+
+}
+.popular-products-grid{
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.product-slide{
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.product-slide img{
+    width: 500px;
+    height: 400px;
+}
+
+
 
 
 
