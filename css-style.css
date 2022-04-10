@@ -103,3 +103,9 @@ body {
 .space {
     margin-right: 30px;
 }
+
+.order-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
