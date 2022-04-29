@@ -109,3 +109,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.details-padding {
+    padding: 100px;
+}
